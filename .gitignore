@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# eslint
+.eslintrc.cjs
+
 # production
 /.idea
 /build
