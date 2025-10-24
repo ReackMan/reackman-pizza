@@ -40,6 +40,10 @@ html {
 
 * {
   font-family: var(--font-nunito), sans-serif;
+
+  & button {
+    cursor: pointer;
+  }
 }
 
 .scrollbar::-webkit-scrollbar {
